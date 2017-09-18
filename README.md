@@ -13,4 +13,4 @@ Using this data collected one can then back test high frequency trading algorith
 
 High Frequency Trading Program:
 
-Reads in data mined from ticScraperForGit.py and back tests data with a given algorithm.  Users can input their own algorithms in root/HighFrequencyTradingProgramForGit/src/trade.java, then select their desired latency, stocks, timeframe, and printing options (to display the results of the algorithm) in root/HighFrequencyTradingProgramForGit/src/Start.java.  Running Start.java will then start the simulation with the desired specification.
+Reads in data mined from ticScraperForGit.py and back tests data with a given algorithm.  Users can input their own algorithms in root/HighFrequencyTradingProgramForGit/src/trade.java, then select their desired latency, stocks, timeframe, and printing options (to display the results of the algorithm) in root/HighFrequencyTradingProgramForGit/src/Start.java.  Running Start.java will then start the simulation with the desired specifications.
